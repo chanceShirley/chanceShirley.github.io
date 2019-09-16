@@ -302,7 +302,7 @@ body {
 }
 
 .items .item:hover .codeLink {
-    right: 0px;
+    bottom: 0px;
 }
 
 .items .item:hover img {

@@ -287,11 +287,21 @@ body {
     right: -200px;
 }
 
+.items .codeLink {
+    float: right;
+    margin-top: 10px;
+    bottom: -200px;
+}
+
 .items .item:hover .openButton {
     left: 0px;
 }
 
 .items .item:hover .projectLink {
+    right: 0px;
+}
+
+.items .item:hover .codeLink {
     right: 0px;
 }
 
